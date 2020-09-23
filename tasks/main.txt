@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CARDS</title>
+	<link rel="icon"  href="img/p1.jpg">
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+	
+
+</head>
+<body>
+	<div class="d-flex flex-row justify-content-around m-4 pl-3">
+		<div class="card text-center p-2">
+			<img src="img/p3.jpg" alt="profile image"  style="border:3px solid green" width="300px" height="300px" >
+			<h2>Supriya Ponna</h2>	
+			<p class="title" style="color: #6B1542;font-family: sans-serif; font-size: 25px">Graduate</p>
+			<p style="color:#2D5A0B;font-family: sans-serif;font size: 20px">ponnasupriya27@gmail.com</p>
+			<button class="btn btn-warning"><a href="semantic resume.html " target="_blank" style="color: black">VIEW RESUME</a></button>
+		</div>
+ 
+
+   
+		<div class="card text-center p-2">
+			<img src="img/monica.jpg" alt="profile image"  style="border:3px solid green" width="300px" height="300px" >
+			<h2>Monica Ramisetty</h2>	
+			<p class="title" style="color: #6B1542;font-family: sans-serif; font-size: 25px">Graduate</p>
+			<p style="color:#2D5A0B;font-family: sans-serif;font size: 20px">monica123@gmail.com</p>
+			<button class="btn btn-warning"><a href="nonsemantic resume.html" target="_blank"style="color: black" >VIEW RESUME</a></button>
+		</div>
+    </div>
+</body>
+</html>
